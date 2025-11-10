@@ -76,7 +76,7 @@ int main() {
              for(int  i = 0; i < MAX_TROPAS; i++){
                 printf("Território: %d \n", i + 1);
                 printf("Nome: %s \n", t[i].nome);
-                printf("Dominado pelo exercito: %s \n", t[i].cor);
+                printf("Dominado pelo exército: %s \n", t[i].cor);
                 printf("N° de Tropas: %d \n", t[i].tropas);
                 printf("==============\n");
              }
